@@ -26,5 +26,3 @@ Languages, Frameworks and Libraries:
 >* <img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" alt="Postman" width="21px" height="21px"> - `Postman` (API testing)
 >* <img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"> - `Git`
 >* <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"> - `VS Code`(Code editor)
-
-**My Email**: `devdior@outlook.com`
