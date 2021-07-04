@@ -14,7 +14,7 @@
 
 ## My Skills
 
-Languages, Frameworks and Libraries:
+### Languages, Frameworks and Libraries
 * <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="21px" height="21px"> **Python**
   - <img src="https://github.com/get-icon/geticon/blob/master/icons/django.svg" alt="Django" width="21px" height="21px"> **Django framework**
   - <img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Flask" width="21px" height="21px"> **Flask micro-framework**
@@ -26,6 +26,6 @@ Languages, Frameworks and Libraries:
   - <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"> **PostgreSQL**
   - <img src="https://github.com/get-icon/geticon/blob/master/icons/sqlite.svg" alt="SQLite" width="21px" height="21px"> **SQLite**
 
-**Tools**:
+### Tools
 * <img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" width="21px" height="21px"> **Postman** (API testing)
 * <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"> **Git** (Version Control)
