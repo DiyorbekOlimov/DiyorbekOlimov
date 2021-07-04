@@ -22,7 +22,7 @@ Languages, Frameworks and Libraries:
 * <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"> **JavaScript**
   - <img src="https://github.com/get-icon/geticon/blob/master/icons/jquery-icon.svg" alt="jQuery" width="21px" height="21px"> **jQuery**
 
-* <img src="./icons/database.svg" alt="SQL" width="21px" height="21px"> - **SQL**
+* <img src="./db.svg" alt="SQL" width="21px" height="21px"> - **SQL**
   - <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"> **PostgreSQL**
   - <img src="https://github.com/get-icon/geticon/blob/master/icons/sqlite.svg" alt="SQLite" width="21px" height="21px"> **SQLite**
 
