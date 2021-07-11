@@ -8,8 +8,8 @@
 - 📫 How to reach me ...
 --->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDior&show_icons=true&theme=dracula)
-![My GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevDior&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyorbekOlimov&show_icons=true&theme=dracula)
+<!--- ![My GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DiyorbekOlimov&theme=dracula) --->
 
 
 ## My Skills
