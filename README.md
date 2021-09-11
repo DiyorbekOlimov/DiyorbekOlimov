@@ -24,7 +24,6 @@
 
 * <img src="./db.svg" alt="SQL" width="21px" height="21px"> - **SQL**
   - <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"> **PostgreSQL**
-  - <img src="https://github.com/get-icon/geticon/blob/master/icons/sqlite.svg" alt="SQLite" width="21px" height="21px"> **SQLite**
 
 ### Tools
 * <img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" width="21px" height="21px"> **Postman** (API testing)
