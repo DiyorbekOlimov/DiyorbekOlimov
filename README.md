@@ -8,8 +8,9 @@
 - 📫 How to reach me ...
 --->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyorbekOlimov&show_icons=true&theme=dracula)
-<!--- ![My GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DiyorbekOlimov&theme=dracula) --->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyorbekOlimov&show_icons=true&theme=github_dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyorbekOlimov&layout=compact&&theme=github_dark)
 
 
 ## My Skills
