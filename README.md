@@ -8,7 +8,7 @@
 - 📫 How to reach me ...
 --->
 
-[![wakatime](https://wakatime.com/badge/user/31926b20-69ad-49ae-a3b2-363bb9db3ebc.svg)](https://wakatime.com/@31926b20-69ad-49ae-a3b2-363bb9db3ebc)
+[![wakatime](https://wakatime.com/badge/user/31926b20-69ad-49ae-a3b2-363bb9db3ebc.svg?style=for-the-badge)](https://wakatime.com/@31926b20-69ad-49ae-a3b2-363bb9db3ebc)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyorbekOlimov&show_icons=true&theme=github_dark&count_private=true)
 
