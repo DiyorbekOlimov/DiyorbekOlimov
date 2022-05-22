@@ -17,20 +17,19 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=DiyorbekOlimov&theme=dracula&column=3&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## My Skills
-
-### Languages, Frameworks and Libraries
-* <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="21px" height="21px"> **Python**
-  - <img src="https://github.com/get-icon/geticon/blob/master/icons/django.svg" alt="Django" width="21px" height="21px"> **Django framework**
-  - <img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Flask" width="21px" height="21px"> **Flask micro-framework**
-
-* <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"> **JavaScript**
-  - <img src="https://github.com/get-icon/geticon/blob/master/icons/jquery-icon.svg" alt="jQuery" width="21px" height="21px"> **jQuery**
-
-* <img src="./db.svg" alt="SQL" width="21px" height="21px"> - **Databases**
-  - <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"> **PostgreSQL**
-
-### Tools
-* <img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px"> **Docker**
-* <img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" width="21px" height="21px"> **Postman** (API testing)
-* <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"> **Git** (Version Control)
+## Technolgies I use
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="21px" height="21px"></a>
+<a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="Flask" width="21px" height="21px"></a>
+<a href="https://fastapi.tiangolo.com/" title="Fast API"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal-vector.svg" alt="Fast API" height="21px"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="21px" height="21px"></a>
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
+<a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
+<a href="https://linux.org/" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
+<a href="https://archlinux.org/" title="Arch Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" alt="Arch Linux" width="21px" height="21px"></a>
+<a href="https://en.wikipedia.org/wiki/Terminal" title="Terminal"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Terminal" width="21px" height="21px"></a>
